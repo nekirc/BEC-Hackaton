@@ -1,2 +1,2 @@
-# BEC-Hakaton
+# BEC-Hackaton
 Hackaton
